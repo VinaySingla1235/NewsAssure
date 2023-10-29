@@ -1,0 +1,31 @@
+{
+  "name": "social",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.8.3",
+    "@supabase/auth-helpers-react": "^0.4.2",
+    "@supabase/supabase-js": "^2.38.4",
+    "javascript-time-ago": "^2.5.9",
+    "next": "14.0.0",
+    "react": "^18",
+    "react-clickout-handler": "^1.2.1",
+    "react-dom": "^18",
+    "react-spinners": "^0.13.8",
+    "react-time-ago": "^7.2.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.0",
+    "mini-css-extract-plugin": "^2.7.6",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
