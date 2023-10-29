@@ -27,7 +27,7 @@ Head over to the news-assure_social directory.
 Install the required dependencies using npm install or yarn install.
 Start the development server with:npm run dev
 
-##License
+## License
 This project is licensed under the MIT License.
 
 
